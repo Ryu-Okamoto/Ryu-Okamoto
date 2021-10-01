@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryu-Okamoto
 - 👀 I’m interested in creating a game
-- 🌱 I’m currently learning Computer Graphics with Vulkan
+- 🌱 I’m currently learning Computer Graphics with Vulkan API
 <!-- 📫 How to reach me ...
 
 <!---
