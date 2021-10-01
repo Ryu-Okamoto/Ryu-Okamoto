@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ryu-Okamoto
 - 👀 I’m interested in creating a game
 - 🌱 I’m currently learning Computer Graphics with Vulkan
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!-- 📫 How to reach me ...
 
 <!---
 Ryu-Okamoto/Ryu-Okamoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
